@@ -1,0 +1,5 @@
+let etc = ['(), ~∙[]'];
+
+:chinese(([Han] | etc)*) " "
+:pinyin(([Latin] | etc)+) " "
+:korean(([Hangul] | etc)+)
